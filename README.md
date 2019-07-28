@@ -1,6 +1,4 @@
-An interpreter for a subset of the Scheme language.
-
-Since I only include a subset of the language, my interpreter will not exactly match the behavior of other interpreters.
+An interpreter for a subset of the Scheme language completed for CS61A
 
 scheme.py: the Scheme evaluator
 
