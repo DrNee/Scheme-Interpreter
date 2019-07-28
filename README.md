@@ -1,6 +1,6 @@
 An interpreter for a subset of the Scheme language completed for CS61A.
 
-![Alt text](scheme_pic.png)
+![Alt text](scheme_pic.PNG)
 
 scheme.py: the Scheme evaluator
 
